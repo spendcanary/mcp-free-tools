@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.spendcanary/free-tools",
+  "title": "SpendCanary free Google Ads tools",
+  "description": "Free Google Ads and PPC tools: ad copy, ROAS, CPC, budgets, wasted spend and landing page checks.",
+  "version": "1.0.0",
+  "websiteUrl": "https://spendcanary.com/tools",
+  "repository": {
+    "url": "https://github.com/spendcanary/mcp-free-tools",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://spendcanary.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://spendcanary.com/mcp"
+    }
+  ]
+}
