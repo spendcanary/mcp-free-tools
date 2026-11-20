@@ -14,16 +14,17 @@ Set-up steps, the tool list and an example result: [spendcanary.com/mcp](https:/
 
 ## Tools
 
-| Tool                             | What it does                                                                                                     |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| `check_ad_copy`                  | Checks Google responsive search ad or Meta ad text against character limits and common rejection reasons.        |
-| `daily_budget_max_spend`         | The most Google Ads can charge in a day (2× the average daily budget) and in a month (30.4×).                    |
-| `roas`                           | Return on ad spend, plus the break-even ROAS and profit for a profit margin.                                     |
-| `cpc`                            | Cost per click from spend and clicks (or any two of spend, clicks and CPC), plus CPM and click-through rate.     |
-| `search_partners_cost`           | Compares cost per conversion on Google Search and search partners, and what partners cost a month beyond it.     |
-| `wasted_spend_from_search_terms` | Totals the spend on search terms with no conversions from a search terms report (CSV text).                      |
-| `check_landing_page`             | Loads a public landing page on a phone and a computer: speed, redirects, a way to call or buy, the Google tag.   |
-| `google_ads_problem_trends`      | How often each Google Ads wasted spend problem comes up on Reddit: last 12 weeks, or monthly since January 2025. |
+| Tool                             | What it does                                                                                                      |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| `check_ad_copy`                  | Checks Google responsive search ad or Meta ad text against character limits and common rejection reasons.         |
+| `daily_budget_max_spend`         | The most Google Ads can charge in a day (2× the average daily budget) and in a month (30.4×).                     |
+| `roas`                           | Return on ad spend, plus the break-even ROAS and profit for a profit margin.                                      |
+| `cpc`                            | Cost per click from spend and clicks (or any two of spend, clicks and CPC), plus CPM and click-through rate.      |
+| `google_ads_budget`              | Monthly and daily budget from a lead goal, cost per click and conversion rate, with Google's 2× and 30.4× limits. |
+| `search_partners_cost`           | Compares cost per conversion on Google Search and search partners, and what partners cost a month beyond it.      |
+| `wasted_spend_from_search_terms` | Totals the spend on search terms with no conversions from a search terms report (CSV text).                       |
+| `check_landing_page`             | Loads a public landing page on a phone and a computer: speed, redirects, a way to call or buy, the Google tag.    |
+| `google_ads_problem_trends`      | How often each Google Ads wasted spend problem comes up on Reddit: last 12 weeks, or monthly since January 2025.  |
 
 Every result starts with a one-line summary, then the details, then one link to the matching tool or guide on spendcanary.com.
 
